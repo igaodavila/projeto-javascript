@@ -1,0 +1,42 @@
+.btn-calc {
+    padding: 1.1em;
+    margin: 1em;
+    font-weight: 700px;
+    font-family: "Arial";
+    font-size: 1.5em;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.btn-total {
+    background-color: rgb(32, 255, 32);
+}
+
+.btn-operator {
+    background-color: rgb(16, 192, 16);
+}
+
+.btn-equal {
+    background-color: green;
+}
+
+.visor-calculadora {
+    padding: 1em;
+    margin: 0.1em;
+    font-size: 3em;
+    color: chartreuse;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    background-color: black;
+    width: 100%;
+}
+
+#calculadora {
+    background-color: grey;
+    width: 100%;
+}
+
+/* ::placeholder {
+    color: chartreuse;
+} */
